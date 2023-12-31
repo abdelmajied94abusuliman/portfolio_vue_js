@@ -37,5 +37,5 @@
 
 <script setup lang="ts">
     import BtnSocial from './BaseComponents/BtnSocial.vue';
-import BtnVue from './BaseComponents/BtnVue.vue'
+    import BtnVue from './BaseComponents/BtnVue.vue'
 </script>
